@@ -171,7 +171,7 @@ For other installation methods, configuration options, and a demo, visit
 [WTF](https://wtfutil.com/)
 
 ## License
-a
+
 **MIT License**
 
 Copyright (c) 2016-2021 Martin Donath
